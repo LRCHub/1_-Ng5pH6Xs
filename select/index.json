@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Mirage call",
+  "base_artist": "XYZ",
+  "createdAt": "2026-02-07T03:20:39.310925Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mirage call",
+      "artist": "XYZ",
+      "has_synced": false,
+      "path": "select/pl_01_Mirage_call_XYZ.txt"
+    }
+  ]
+}
